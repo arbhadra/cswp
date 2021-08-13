@@ -8,8 +8,7 @@ The CSWP – Acaemic certification is proof of your SOLIDWORKS® expertise with 
 
 As a SOLIDWORKS Academic Certification Provider, you agree to offer the CSWP-Academic Exam in a proctored environment. Students that pass the CSWP-Academic Exam receive an electronic certificate listing their certification ID and educational institution name. The certification ID can be verified by schools and employers.
 
-========================================================================================
-
+===========================================================================
 Exam Length: 3 hours 30 minutes (Both parts total)
 
 Minimum Passing grade: 75% in each part
